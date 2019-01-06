@@ -1,13 +1,9 @@
 {
     "manifest_version": 2,
-    "name": "Old Reddit",
+    "name": "Reddirect",
     "author": "Jesse Stolwijk",
-    "developer": {
-        "name": "Jesse Stolwijk",
-        "url": "https://github.com/JesseStolwijk"
-    },
     "version": "1.0",
-    "description": "Automatically redirect to the old.reddit.com page.",
+    "description": "Automatically redirect to old reddit.",
     "icons": {
       "48": "icons/48.png"
     },
